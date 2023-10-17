@@ -1,0 +1,12 @@
+{
+  "name": "3det , Victory Ficha!",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Ficha Victory!",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 600,
+    "width": 400
+  }
+}
